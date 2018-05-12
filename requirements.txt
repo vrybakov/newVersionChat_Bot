@@ -5,6 +5,7 @@ Cython==0.28
 idna==2.6
 more-itertools==4.1.0
 portend==2.2
+pypiwin32==223
 pyTelegramBotAPI==3.6.1
 pytz==2018.3
 requests==2.18.4
